@@ -3,7 +3,7 @@ or rendezvous, that is the question:
 
 #### Johann
   * LinkedIn [➥](https://www.linkedin.com/in/johali/)
-  * Website [➥](https://johali.crd.co/)
+  * Website [➥](https://johann.li/)
 
 #### Olivia
   * LinkedIn [➥](https://www.linkedin.com/in/livlin/)
