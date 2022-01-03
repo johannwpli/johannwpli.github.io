@@ -6,7 +6,7 @@ or rendezvous, that is the question:
   * Website [➥](https://johann.li/)
 
 #### Olivia
-  * LinkedIn [➥](https://www.linkedin.com/in/oliviahylin)
+  * LinkedIn [➥](https://www.linkedin.com/in/oliviahylin/)
 
 #### Hsin Studio (欣學堂)
   * Website [➥](https://hsinst.crd.co/)
