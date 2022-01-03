@@ -2,11 +2,11 @@
 or rendezvous, that is the question:
 
 #### Johann
-  * LinkedIn [➥](https://www.linkedin.com/in/johali/)
+  * LinkedIn [➥](https://www.linkedin.com/in/johannwpli/)
   * Website [➥](https://johann.li/)
 
 #### Olivia
-  * LinkedIn [➥](https://www.linkedin.com/in/livlin/)
+  * LinkedIn [➥](www.linkedin.com/in/oliviahylin)
 
 #### Hsin Studio (欣學堂)
   * Website [➥](https://hsinst.crd.co/)
