@@ -1,0 +1,1 @@
+function calculateAmount(json) { document.write(json.feed.openSearch$totalResults.$t); }
