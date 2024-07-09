@@ -2,9 +2,9 @@
 or rendezvous, that is the question:
 
 #### Johann
-  * LinkedIn [➥](https://www.linkedin.com/in/johannwpli/)
-  * GitHub [➥](https://github.com/johannwpli)
-  * Website [➥](https://johann.li/)
+  * LinkedIn [☁️](https://www.linkedin.com/in/johannwpli/)
+  * GitHub [☁️](https://github.com/johannwpli)
+  * Website [☁️](https://johann.li/)
 
 <!--#### Olivia-->
 <!--  * LinkedIn [➥](https://www.linkedin.com/in/oliviahylin/)-->
